@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/george518/PPGo_ApiAdmin/models"
+	"github.com/syk310/syk_beego_admin/models"
 )
 
 type TestController struct {

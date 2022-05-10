@@ -14,9 +14,9 @@ import (
 	"time"
 
 	"github.com/astaxie/beego"
-	"github.com/george518/PPGo_ApiAdmin/libs"
-	"github.com/george518/PPGo_ApiAdmin/models"
-	"github.com/george518/PPGo_ApiAdmin/utils"
+	"github.com/syk310/syk_beego_admin/libs"
+	"github.com/syk310/syk_beego_admin/models"
+	"github.com/syk310/syk_beego_admin/utils"
 	cache "github.com/patrickmn/go-cache"
 )
 

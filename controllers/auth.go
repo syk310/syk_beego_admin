@@ -13,11 +13,11 @@ import (
 	"strings"
 	"time"
 
-	"github.com/george518/PPGo_ApiAdmin/utils"
+	"github.com/syk310/syk_beego_admin/utils"
 
 	"strconv"
 
-	"github.com/george518/PPGo_ApiAdmin/models"
+	"github.com/syk310/syk_beego_admin/models"
 	cache "github.com/patrickmn/go-cache"
 )
 
